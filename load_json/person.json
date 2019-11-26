@@ -1,0 +1,39 @@
+[
+    {
+        "name":"kalyan biswas",
+        "age":"15",
+        "height":"167",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"A biswas",
+        "age":"16",
+        "height":"167",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"B biswas",
+        "age":"15",
+        "height":"167",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"C biswas",
+        "age":"15",
+        "height":"167",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"D biswas",
+        "age":"15",
+        "height":"167",
+        "gender":"male",
+        "hair_color":"black"
+    }
+
+   
+]
